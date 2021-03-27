@@ -13,7 +13,7 @@ public class HelloClassLoaderWork extends ClassLoader {
 
     public static  void main(String[] args) {
         try {
-            Class<?> myClass = new HelloClassLoaderWork("e:/JavaLearn/JavaAdvance/OneWeekWork/").findClass("Hello");
+            Class<?> myClass = new HelloClassLoaderWork("e:/JavaLearn/JavaAdvance/Works/OneWeek/").findClass("Hello");
             Method method = myClass.getDeclaredMethod("hello");
             Object obj = myClass.newInstance();
             method.invoke(obj);

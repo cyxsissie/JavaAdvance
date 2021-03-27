@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ffa479-63ad-4496-baa0-d59278f019cc" name="Default Changelist" comment="" />
+    <list default="true" id="53ffa479-63ad-4496-baa0-d59278f019cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Hello.xlass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/out/production/demo/demo/jvm/HelloClassLoaderWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/demo/jvm/HelloClassLoaderWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work2.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +26,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1pox5MHbOzYeiAD0SrGIHoGZtR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TwoWeekWork/work1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,11 +126,30 @@
       <workItem from="1616158861715" duration="13254000" />
       <workItem from="1616199915806" duration="11842000" />
       <workItem from="1616235243376" duration="44000" />
+      <workItem from="1616237338547" duration="64000" />
+      <workItem from="1616237417850" duration="686000" />
+      <workItem from="1616375278127" duration="9000" />
+      <workItem from="1616571836913" duration="46000" />
+      <workItem from="1616573757196" duration="596000" />
+      <workItem from="1616837676400" duration="121000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
